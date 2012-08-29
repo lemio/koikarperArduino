@@ -1,3 +1,15 @@
+/*
+@author  Geert Roumen (Lemio)
+ @license Creative Commons 
+ Attribution-NonCommercial-ShareAlike 
+ 3.0 Unported
+ @git     https://github.com/lemio/koikarperArduino
+ @name    Koikarper Feeding system
+ 
+ description
+ ---
+
+ */
 //#include <Wire.h> 
 #include <LiquidCrystal.h>
 #include <SPI.h>
